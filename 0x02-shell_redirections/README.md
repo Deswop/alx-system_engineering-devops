@@ -1,1 +1,1 @@
-removing from inputs
+creating a script that reverses its input
