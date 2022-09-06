@@ -1,1 +1,1 @@
- replacing characters from inputs
+removing from inputs
