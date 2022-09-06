@@ -1,1 +1,1 @@
- create a file that displays only aplhabets
+ replacing characters from inputs
