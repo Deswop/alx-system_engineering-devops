@@ -1,1 +1,1 @@
-script for power
+Conversion of binary to decimal
