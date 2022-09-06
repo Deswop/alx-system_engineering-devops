@@ -1,1 +1,1 @@
- a scripts thatprints a text into a file 
+a script that duplicate the lastline of a file
