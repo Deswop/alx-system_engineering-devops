@@ -1,1 +1,1 @@
-script for counting
+script that print the ten newewst line
