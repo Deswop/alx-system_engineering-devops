@@ -1,1 +1,1 @@
-a script that duplicate the lastline of a file
+a scripts that deletes a parrticukar file from all directories
